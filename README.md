@@ -1,6 +1,6 @@
 # Desafios
 
-O principal objetivo do repositório é exibir uma lista de desafios para testar seus conhecimentos para vagas de empregos reais:
+O principal objetivo deste repositório é exibir uma lista de desafios para testar seus conhecimentos para vagas de empregos reais:
 
 
 ## Backend / Fullstack (pt-br 🇧🇷)
@@ -24,3 +24,40 @@ O principal objetivo do repositório é exibir uma lista de desafios para testar
 - [UOL](https://github.com/uolhost/test-backEnd-Java)
 - [Viva Decora](https://github.com/vivadecora/backend-teste)
 - [Viva Real](https://github.com/VivaReal/code-challenge/blob/master/backend.md)
+
+## Frontend (pt-br 🇧🇷)
+- [1STi](https://github.com/1STi/desafio-frontend/blob/master/README.md)
+- [Accenture](https://github.com/acnrecife/Front-End-Test-Interview)
+- [Amaro](https://github.com/amarofashion/front-end-challenge)
+- [Amil](https://github.com/DevAmil/frontend-test)
+- [B2W](https://github.com/b2w-marketplace/code-challenge)
+- [Buscapé](https://github.com/buscape-company/exercicios/tree/master/frontend)
+- [Catho](https://github.com/catho/frontend-test)
+- [Celular Direto](https://github.com/celular-direto/layout-front-end)
+- [Chaordic](https://github.com/chaordic/frontend-intern-challenge)
+- [Clima Tempo](https://github.com/climatempo/challenge-accepted)
+- [Concrete Solutions](https://github.com/concretesolutions/recrutamento-fe)
+- [Contabilizei](https://github.com/contabilizei/front-end-teste)
+- [Creditas](https://github.com/Creditas/challenge/tree/master/frontend)
+- [Cubo Network - Front-End](https://github.com/cubonetwork/frontend-challenge)
+- [DB Interativa](https://github.com/dbrinterativa/desafio_frontend)
+- [Din Digital](https://github.com/dindigital/teste-frontend-2017)
+- [ENext](https://github.com/enextgroup/quero-trabalhar-na-enext)
+- [Entria](https://github.com/entria/vagas/blob/master/challenge.md)
+- [Folha de SP](https://github.com/FolhaSP/front-end-test)
+- [iCasei](https://github.com/icasei/teste-front-end)
+- [iColabora](https://github.com/iColabora/teste-front-end-developer)
+- [Intelipost](https://github.com/intelipost/job-frontend-developer)
+- [Itelios](https://github.com/iteliosbrasil/itelios-frontend-challenge)
+- [LojasKD](https://github.com/lojaskd/frontend-challenge)
+- [Mkt Virtual](https://github.com/mktvirtual/front-end-test-wordpress)
+- [Mongeral Aegon](https://github.com/MongeralAegonDigital/front-end-trabalhe-na-mad)
+- [Netshoes](https://github.com/netshoes/front-end-recruitment)
+- [Nexaas/Myfreecomm](https://github.com/myfreecomm/desafio-design-01)
+- [Personare](https://github.com/Personare/front-end-challenge)
+- [Profite](https://github.com/arthurgimenes/teste-profite)
+- [R7.com](https://github.com/r7com/frontend-test)
+- [Trampos](https://github.com/trampos/glowing-octo-batman)
+- [UOL](https://github.com/uolhost/test-frontEnd)
+- [Viva Decora](https://github.com/vivadecora/projeto-frontend-vivadecora-nao-fazer-fork) 
+- [Viva Real](https://github.com/vivareal/code-challenge/blob/master/frontend.md)
